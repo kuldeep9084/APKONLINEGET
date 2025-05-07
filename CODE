@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Free APK Store</title>
+  <style>
+    body { font-family: Arial; text-align: center; background: #f9f9f9; }
+    .app-box { border: 1px solid #ccc; padding: 10px; margin: 10px; background: white; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My APK Store</h1>
+
+  <div class="app-box">
+    <h3>Subway Surfers Mod APK</h3>
+    <p>Unlimited coins + keys</p>
+    <a href="https://www.mediafire.com/file/yourfile.apk">Download</a>
+  </div>
+
+  <div class="app-box">
+    <h3>WhatsApp Latest APK</h3>
+    <p>Official version</p>
+    <a href="https://www.mediafire.com/file/yourfile.apk">Download</a>
+  </div>
+
+</body>
+</html>
